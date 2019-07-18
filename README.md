@@ -1,6 +1,6 @@
 # SAT-ACT-Analysis
 
-Problem Statement
+## Problem Statement
 As part of admission requirements for the US colleges and universities, both the ACT and SAT are well-known standardized tests. Each test measures students' proficiency in different areas such as Maths, Reading, English, etc.
 
 In this Exploration Data Analysis, I will be analysing SAT and ACT scores as well as participation rates from each state in the United States. Then, I will be identifying a trend in the data and combine the data analysis with domain research to identify likely factors influencing participation rates and scores in various states.
