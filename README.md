@@ -8,9 +8,9 @@ In this Exploration Data Analysis, I will be analysing SAT and ACT scores as wel
 Therefore, we can make a recommendation to the College Board that administers the SAT, wants to tracks state-wide participation and recommends where the money is best spent to improve SAT participation rates.
 
 
-# Data Description
+## Data Description
 
-Below is a data dictionary which provides a quick overview of features/variables/columns for 2017 SAT & ACT and 2018 SAT & ACT.
+Below is a data dictionary which provides a quick overview of features/types/dataset/description for 2017 SAT & ACT and 2018 SAT & ACT.
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -41,10 +41,10 @@ Below is a data dictionary which provides a quick overview of features/variables
 |**science_2018**|float|ACT| *The average of Science score for ACT in 2018.*|
 |**composite_2018**|float|ACT| *The mean of Math, English, Reading, and Science scores for ACT in 2018.*|
 
-# Conclusions and Recommendations
+## Conclusions and Recommendations
 
-## Conclusions:
+### Conclusions:
 There are 19 states with SAT participation rate of 60% or greater. Whereas there are 30 states with ACT participation rate of 60% of more. The board should give scholarship to students who participate in SAT exams rather than ACT to increase participation rate for SAT. For instance, Missouri as a SAT participation rate of 3% in 2017 and 4% in SAT 2018. This can be surely brought up by giving students incentives to take SATs.
 
-## Recommendations:
+### Recommendations:
 In order to increase the participation of both test ACT and SAT, the College Board should collaborate with state departments of education and local education agencies set up a state-wide testing requirements, full or partial funding or free test preparation programs. In addition, the College Board should cover all or part of exam fees, offer more SAT school Days, collect more data from school district to help find more suitable target.
